@@ -1,0 +1,60 @@
+.Form {
+    background-color: #f9f9f9; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+    padding: 50px;
+    max-width: 400px; 
+    margin: 0 auto; 
+  }
+  
+  .Form h1 {
+    color: #333; 
+    margin-bottom: 30px; 
+  }
+  
+  .input-field {
+    margin-bottom: 20px;
+  }
+  
+  .input-field input {
+    width: 100%; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px;
+    outline: none; 
+  }
+  
+  .Form button {
+    background-color: #06010b;
+    width: 100%;
+    color: white;
+    border: none;
+    padding: 12px 20px; 
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s; 
+  }
+  
+  .Form button:hover {
+    background-color: #333; 
+  }
+  
+  .signup p {
+    margin-top: 20px; 
+  
+  .signup .signupLink {
+    color: #06010b; 
+    font-weight: bold; 
+  }
+  
+  .signup .signupLink a {
+    color: #06010b; 
+    text-decoration: none; 
+  }
+  
+  .signup .signupLink a:hover {
+    text-decoration: underline; 
+  }
+}
